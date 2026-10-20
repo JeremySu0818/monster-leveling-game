@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Player1",
+        "level": 1,
+        "experience": 0,
+        "hp": 100,
+        "max_hp": 100,
+        "base_attack": 15,
+        "skill_mastery": 1.0,
+        "sweet_chickens": 1,
+        "skills": [
+            {
+                "name": "Pyro Blast",
+                "damage": 40,
+                "element": "FIRE"
+            },
+            {
+                "name": "Hydro Splash",
+                "damage": 40,
+                "element": "WATER"
+            },
+            {
+                "name": "Wind Shear",
+                "damage": 35,
+                "element": "WIND"
+            },
+            {
+                "name": "Stone Punch",
+                "damage": 50,
+                "element": "ROCK"
+            },
+            {
+                "name": "Ice Shard",
+                "damage": 45,
+                "element": "ICE"
+            },
+            {
+                "name": "Thunderbolt",
+                "damage": 40,
+                "element": "ELECTRO"
+            },
+            {
+                "name": "Nature's Wrath",
+                "damage": 35,
+                "element": "GRASS"
+            }
+        ],
+        "armor": 0,
+        "gold": 50,
+        "items": [],
+        "skill_bonus_percent": 0.0
+    }
+]

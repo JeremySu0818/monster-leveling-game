@@ -1,0 +1,37 @@
+{
+    "Giant Slime King": {
+        "name": "Giant Slime King",
+        "level": 19,
+        "unlocked": true
+    },
+    "Ancient Earth Elemental": {
+        "name": "Ancient Earth Elemental",
+        "level": 2,
+        "unlocked": true
+    },
+    "Storm Herald": {
+        "name": "Storm Herald",
+        "level": 2,
+        "unlocked": true
+    },
+    "Frozen Lord": {
+        "name": "Frozen Lord",
+        "level": 2,
+        "unlocked": true
+    },
+    "Thunder Tyrant": {
+        "name": "Thunder Tyrant",
+        "level": 2,
+        "unlocked": true
+    },
+    "Forest Spirit": {
+        "name": "Forest Spirit",
+        "level": 3,
+        "unlocked": true
+    },
+    "Abyssal Horror": {
+        "name": "Abyssal Horror",
+        "level": 4,
+        "unlocked": true
+    }
+}
